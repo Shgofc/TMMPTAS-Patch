@@ -1,0 +1,69 @@
+<level width="1024" height="1024" sky="1" dark="False" cutscene="">
+  <bg exportMode="GridRectangles" />
+  <props>
+    <prop10 id="0" x="599" y="870" />
+    <prop7 id="1" x="240" y="752" />
+    <prop7 id="2" x="768" y="560" />
+    <prop7 id="3" x="0" y="336" />
+    <prop8 id="4" x="782" y="309" />
+    <prop8 id="5" x="387" y="694" />
+    <prop6 id="6" x="176" y="912" />
+    <prop6 id="7" x="336" y="912" />
+    <prop6 id="8" x="688" y="624" />
+    <prop6 id="9" x="400" y="560" />
+    <prop8 id="10" x="577" y="149" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="11" w="1" h="21" />
+    <rect x="1" y="18" w="2" h="14" />
+    <rect x="3" y="24" w="3" h="8" />
+    <rect x="6" y="31" w="26" h="1" />
+    <rect x="24" y="25" w="8" h="6" />
+    <rect x="26" y="19" w="6" h="6" />
+    <rect x="29" y="13" w="3" h="6" />
+    <rect x="31" y="4" w="1" h="9" />
+  </solid>
+  <objects>
+    <env_oneWay id="0" x="736" y="896" />
+    <env_oneWay id="1" x="704" y="896" />
+    <env_oneWay id="2" x="352" y="896" />
+    <env_oneWay id="3" x="320" y="896" />
+    <env_oneWay id="4" x="288" y="896" />
+    <env_oneWay id="5" x="352" y="800" />
+    <env_oneWay id="6" x="384" y="800" />
+    <env_oneWay id="7" x="96" y="640" />
+    <env_oneWay id="8" x="128" y="640" />
+    <env_oneWay id="9" x="256" y="576" />
+    <env_oneWay id="10" x="288" y="576" />
+    <env_oneWay id="11" x="320" y="576" />
+    <env_oneWay id="12" x="352" y="576" />
+    <env_oneWay id="18" x="704" y="704" />
+    <env_oneWay id="19" x="736" y="704" />
+    <env_oneWay id="20" x="896" y="512" />
+    <env_oneWay id="21" x="864" y="512" />
+    <env_oneWay id="29" x="704" y="448" />
+    <env_door id="31" x="416" y="928" uid="3" goX="2" goY="51" shop="" locked="False" oneWay="True" noEnemies="False" />
+    <env_door id="32" x="544" y="928" uid="1" goX="2" goY="52" shop="" locked="False" oneWay="True" noEnemies="False" />
+    <en_shooter id="34" x="128" y="704" />
+    <env_door id="35" x="288" y="512" uid="4" goX="2" goY="63" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_oneWay id="13" x="512" y="704" />
+    <env_oneWay id="14" x="544" y="704" />
+    <env_oneWay id="15" x="576" y="704" />
+    <env_oneWay id="16" x="416" y="640" />
+    <env_oneWay id="17" x="448" y="640" />
+    <env_oneWay id="22" x="448" y="512" />
+    <env_oneWay id="23" x="480" y="512" />
+    <env_oneWay id="24" x="544" y="448" />
+    <env_oneWay id="25" x="576" y="448" />
+    <env_oneWay id="26" x="608" y="448" />
+    <env_oneWay id="27" x="640" y="448" />
+    <env_oneWay id="28" x="672" y="448" />
+    <env_door id="33" x="576" y="384" uid="88" goX="2" goY="62" shop="" locked="True" oneWay="False" noEnemies="False" />
+    <env_door id="36" x="544" y="640" uid="5" goX="2" goY="62" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <pl_checkpoint id="30" x="480" y="928" />
+    <env_door id="37" x="928" y="352" uid="0" goX="0" goY="0" shop="pocoes" locked="False" oneWay="False" noEnemies="False" />
+    <npc_alien id="38" x="704" y="832" talk="Você gosta de paçoca? Eu adoro, mas não sei bem o que é." />
+    <env_door id="39" x="128" y="576" uid="99" goX="0" goY="0" shop="gigabaite" locked="False" oneWay="False" noEnemies="False" />
+    <env_oneWay id="40" x="160" y="640" />
+  </objects>
+</level>

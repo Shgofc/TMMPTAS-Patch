@@ -1,0 +1,61 @@
+<level width="2048" height="640" sky="1" dark="False" cutscene="">
+  <bg exportMode="GridRectangles">
+    <rect x="6" y="19" w="7" h="1" />
+    <rect x="7" y="17" w="5" h="2" />
+    <rect x="8" y="16" w="4" h="1" />
+    <rect x="9" y="11" w="8" h="2" />
+    <rect x="11" y="13" w="1" h="3" />
+    <rect x="13" y="8" w="1" h="3" />
+    <rect x="13" y="13" w="3" h="1" />
+    <rect x="13" y="14" w="2" h="1" />
+    <rect x="13" y="15" w="1" h="1" />
+    <rect x="14" y="9" w="1" h="2" />
+    <rect x="15" y="10" w="1" h="1" />
+    <rect x="37" y="19" w="5" h="1" />
+    <rect x="38" y="17" w="3" h="2" />
+    <rect x="39" y="15" w="2" h="2" />
+    <rect x="40" y="14" w="1" h="1" />
+    <rect x="41" y="18" w="1" h="1" />
+    <rect x="55" y="18" w="5" h="2" />
+    <rect x="56" y="12" w="2" h="1" />
+    <rect x="56" y="17" w="4" h="1" />
+    <rect x="57" y="13" w="1" h="4" />
+    <rect x="58" y="14" w="2" h="1" />
+    <rect x="58" y="15" w="1" h="2" />
+    <rect x="59" y="13" w="1" h="1" />
+  </bg>
+  <props>
+    <prop11 id="0" x="864" y="480" />
+    <prop20 id="2" x="1652" y="569" />
+    <prop18 id="3" x="1588" y="569" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="1" h="20" />
+    <rect x="1" y="15" w="9" h="5" />
+    <rect x="26" y="17" w="8" h="3" />
+    <rect x="45" y="19" w="10" h="1" />
+    <rect x="63" y="0" w="1" h="20" />
+  </solid>
+  <objects>
+    <env_door id="0" x="64" y="416" uid="2" goX="3" goY="33" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_oneWay id="1" x="1984" y="416" />
+    <env_oneWay id="2" x="1952" y="416" />
+    <env_oneWay id="3" x="1920" y="416" />
+    <env_oneWay id="4" x="1888" y="416" />
+    <env_door id="5" x="1952" y="352" uid="1" goX="3" goY="5" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <pl_checkpoint id="6" x="896" y="480" />
+    <npc_alien id="7" x="192" y="416" talk="Disseram que é para &quot;pular como se não houvesse amanhã&quot;, mas sei lá..." />
+    <env_oneWay id="8" x="832" y="352" />
+    <env_oneWay id="9" x="864" y="352" />
+    <env_oneWay id="10" x="896" y="352" />
+    <env_oneWay id="11" x="1056" y="192" />
+    <env_oneWay id="12" x="1088" y="192" />
+    <env_oneWay id="13" x="1120" y="192" />
+    <env_oneWay id="14" x="1440" y="256" />
+    <env_oneWay id="15" x="1408" y="256" />
+    <env_oneWay id="16" x="1472" y="256" />
+    <env_oneWay id="17" x="1504" y="256" />
+    <env_chest id="18" x="1440" y="192" />
+    <env_door id="19" x="64" y="64" uid="55" goX="3" goY="34" shop="" locked="False" oneWay="True" noEnemies="False" />
+  </objects>
+</level>

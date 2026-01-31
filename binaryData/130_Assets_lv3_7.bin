@@ -1,0 +1,59 @@
+<level width="1024" height="1024" sky="1" dark="False" cutscene="">
+  <bg exportMode="GridRectangles" />
+  <props>
+    <prop13 id="0" x="160" y="768" />
+    <prop13 id="1" x="736" y="448" />
+    <prop13 id="2" x="128" y="512" />
+    <prop11 id="3" x="544" y="928" />
+    <prop11 id="4" x="240" y="736" />
+    <prop12 id="5" x="496" y="784" />
+    <prop12 id="6" x="256" y="176" />
+    <prop12 id="7" x="736" y="144" />
+    <prop12 id="8" x="656" y="464" />
+    <prop15 id="9" x="160" y="656" />
+    <prop15 id="10" x="336" y="368" />
+    <prop15 id="11" x="496" y="176" />
+    <prop16 id="12" x="32" y="640" />
+    <prop16 id="13" x="944" y="896" />
+    <prop20 id="15" x="478" y="952" />
+    <prop19 id="14" x="655" y="120" />
+    <prop21 id="16" x="34" y="123" />
+    <prop21 id="17" x="100" y="731" />
+    <prop18 id="18" x="598" y="442" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="1" h="32" />
+    <rect x="1" y="5" w="1" h="4" />
+    <rect x="1" y="23" w="2" h="4" />
+    <rect x="1" y="27" w="1" h="1" />
+    <rect x="1" y="31" w="31" h="1" />
+    <rect x="2" y="6" w="10" h="1" />
+    <rect x="2" y="7" w="8" h="1" />
+    <rect x="3" y="24" w="1" h="3" />
+    <rect x="4" y="17" w="4" h="1" />
+    <rect x="4" y="25" w="18" h="1" />
+    <rect x="4" y="26" w="8" h="1" />
+    <rect x="5" y="18" w="3" h="1" />
+    <rect x="12" y="15" w="20" h="1" />
+    <rect x="13" y="16" w="19" h="1" />
+    <rect x="15" y="9" w="3" h="1" />
+    <rect x="20" y="5" w="12" h="1" />
+    <rect x="26" y="17" w="6" h="1" />
+    <rect x="29" y="18" w="3" h="1" />
+    <rect x="30" y="14" w="2" h="1" />
+    <rect x="30" y="19" w="2" h="1" />
+    <rect x="31" y="0" w="1" h="5" />
+    <rect x="31" y="6" w="1" h="8" />
+    <rect x="31" y="20" w="1" h="11" />
+  </solid>
+  <objects>
+    <env_door id="0" x="64" y="928" uid="5" goX="3" goY="61" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="1" x="928" y="96" uid="1" goX="3" goY="91" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="3" x="864" y="928" uid="3" goX="0" goY="0" shop="gigabaite" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="4" x="864" y="416" uid="2" goX="0" goY="0" shop="pocoes" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="5" x="96" y="128" uid="8" goX="0" goY="0" shop="combate" locked="False" oneWay="False" noEnemies="False" />
+    <npc_alien id="6" x="160" y="128" talk="ahh... subir até aqui me deixou EXAUSTO!" />
+    <npc_alien id="7" x="576" y="736" talk="Hey, eu já não te vi antes? Sei lá, você tem uma dessas caras comuns.." />
+    <pl_checkpoint id="2" x="416" y="928" />
+  </objects>
+</level>

@@ -1,0 +1,31 @@
+<level width="1184" height="480" sky="2" dark="False" cutscene="">
+  <bg exportMode="GridRectangles" />
+  <props>
+    <prop6 id="0" x="656" y="368" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="37" h="1" />
+    <rect x="0" y="1" w="1" h="14" />
+    <rect x="1" y="4" w="6" h="1" />
+    <rect x="1" y="11" w="2" h="4" />
+    <rect x="3" y="14" w="34" h="1" />
+    <rect x="4" y="8" w="13" h="1" />
+    <rect x="14" y="1" w="1" h="7" />
+    <rect x="18" y="5" w="12" h="1" />
+    <rect x="19" y="11" w="2" h="1" />
+    <rect x="20" y="6" w="1" h="5" />
+    <rect x="20" y="12" w="1" h="2" />
+    <rect x="25" y="9" w="12" h="1" />
+    <rect x="36" y="1" w="1" h="8" />
+    <rect x="36" y="10" w="1" h="4" />
+  </solid>
+  <objects>
+    <env_door id="0" x="1058" y="384" uid="2" goX="1" goY="51" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="1" x="77" y="65" uid="3" goX="1" goY="1" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <en_snake id="2" x="352" y="192" side="1" />
+    <en_snake id="3" x="480" y="416" side="1" />
+    <en_snake id="4" x="928" y="416" side="1" />
+    <prop1 id="5" x="982" y="207" />
+    <prop1 id="6" x="51" y="370" />
+  </objects>
+</level>

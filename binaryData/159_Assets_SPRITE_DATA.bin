@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<bunny>
+		<position>
+			<fall_bunny0000 x="28" y="49" />
+			<fall_bunny0001 x="28" y="49" />
+			<jump_bunny0000 x="30" y="54" />
+			<jump_bunny0001 x="30" y="54" />
+			<run_bunny0000 x="50" y="67" />
+			<run_bunny0001 x="33" y="52" />
+			<run_bunny0002 x="30" y="53" />
+			<run_bunny0003 x="51" y="67" />
+			<run_bunny0004 x="64" y="49" />
+			<run_bunny0005 x="65" y="45" />
+			<runBlink_bunny0000 x="50" y="67" />
+			<runBlink_bunny0001 x="32" y="53" />
+			<runBlink_bunny0002 x="30" y="54" />
+			<runBlink_bunny0003 x="51" y="67" />
+			<runBlink_bunny0004 x="64" y="49" />
+			<runBlink_bunny0005 x="65" y="45" />
+			<stand_bunny0000 x="39" y="66" />
+			<stand_bunny0001 x="39" y="66" />
+			<stand_bunny0002 x="39" y="66" />
+			<stand_bunny0003 x="39" y="66" />
+			<stand_bunny0004 x="39" y="66" />
+			<standBlink_bunny0000 x="39" y="66" />
+			<standBlink_bunny0001 x="39" y="66" />
+			<standBlink_bunny0002 x="39" y="66" />
+			<standBlink_bunny0003 x="39" y="66" />
+			<standBlink_bunny0004 x="39" y="66" />
+			<getup_bunny0000 x="18" y="91" />
+			<getup_bunny0001 x="18" y="91" />
+			<getup_bunny0002 x="18" y="91" />
+			<getup_bunny0003 x="18" y="91" />
+			<getup_bunny0004 x="27" y="65" />
+			<attack0000 x="70" y="47" />
+			<attack0001 x="70" y="47" />
+			<attack0002 x="65" y="56" />
+			<hitUp_bunny0000 x="30" y="54" />
+			<hitUp_bunny0000 x="30" y="54" />
+			<hitUp_bunny0001 x="30" y="54" />
+			<hitDown_bunny0000 x="28" y="49" />
+			<hitDown_bunny0001 x="28" y="49" />
+			<default x="0" y="0" />
+		</position>
+	</bunny>
+</data>

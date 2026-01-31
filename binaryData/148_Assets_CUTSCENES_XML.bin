@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<intro>
+		<line bg="lab" char="franjinha" music="story1" voice="franjinha1">
+			Turma! Que bom que estão todos aqui!
+		</line>
+		<line char="turma" side="left" voice="monica1">
+			Franjinha, o que está acontecendo? Por que você chamou todo mundo? 
+		</line>
+		<line char="franjinha" voice="franjinha2">
+			Pra apresentar a minha mais nova e mais incrível invenção: a máquina de teletransporte!
+		</line>
+		<line char="turmaTriste" side="left" voice="monica2">
+			De novo?
+		</line>
+		<line char="franjinhaSerio" voice="franjinha3">
+			Sim! Permitam-me mostrar como ela funciona...
+		</line>
+		<line bg="none" char="none" autoNext="2.3" voice="franjinha4"></line>
+		<line flashAfter="1.0" autoNext="2.5" music="stop" sound="teleport"></line>
+		
+		<line bg="Cave" char="monicaPreocupada" side="left" music="story2" voice="monica3">
+			Ugh... O-onde nós estamos?
+		</line>
+		<line char="franjinha" voice="franjinha5">
+			De acordo com os meus cálculos, a máquina nos teletransportou para alguns anos-luz da Terra e nós viemos parar em outro corpo celeste!
+		</line>
+		<line char="monicaPreocupada" side="left" voice="monica4">
+			Você quer dizer que estamos em outro planeta?!
+		</line>
+		<line char="franjinha"  voice="franjinha6">
+			Sim!! Não é impressionante? Ah, tenho tanta coisa para aprender sobre este lugar! Há sinais de civilizações por todos os lados, e vocês...
+		</line>
+		<line char="monicaBrava" side="left" voice="monica5">...</line>
+		<line char="franjinhaEnvergonhado" voice="franjinha7"> Er... Você quer voltar para a Terra, né?</line>
+		<line char="monicaBrava" side="left" voice="monica6">
+			Quero! E é VOCÊ quem vai dar um jeito nisso!
+		</line>
+		<line char="franjinhaEnvergonhado" voice="franjinha8">
+			Gulp! Pode deixar! A máquina está meio quebrada, mas já vou começar a arrumar!
+		</line>
+		<line char="monicaPreocupada" side="left" voice="monica7">
+			 É bom mesmo! Enquanto isso, eu vou dar uma volta e procurar pelo resto da turma!
+		</line>
+		<line char="franjinha"voice="franjinha9">
+			Tá bom, Mônica! E não se esqueça: a gravidade neste planeta é um pouco estranha, então use as setas do teclado para andar, e aperte Z para pular!
+		</line>
+	</intro>
+
+	<meetMagali>
+		<line bg="alien" char="magali" music="story2" voice="magali1">
+			Mônica! Que bom ver você!
+		</line>
+		<line char="monica" side="left" voice="monica8">
+			Magali, vem comigo, o Franjinha vai dar um jeito de voltarmos para a Terra!
+		</line>
+		<line char="magaliZica" voice="magali2">
+			Er... Bem, eu... É...
+		</line>
+		<line char="monicaBrava" side="left" voice="monica9">
+			O que foi, Magali? Fala logo!
+		</line>
+		<line char="magaliZica" voice="magali3">
+			É que... e-eu comi umas frutas nativas de-li-ci-o-sas!
+		</line>
+		<line char="monicaPreocupada" side="left" voice="monica10">
+			E daí?
+		</line>
+		<line char="magaliZica" voice="magali4">
+			E daí que... erm... elas perteciam a um monstro, e agora ele está bravo com todo mundo!
+		</line>
+		<line char="monicaBrava" side="left" voice="monica11">
+			Um monstro?
+		</line>
+	</meetMagali>
+	
+	<saveMagali>
+		<line bg="alien" char="magali" music="story2" voice="magali5">
+			Uau Mônica! obrigada pela ajuda!
+		</line>
+		<line char="monica" side="left" voice="monica12">
+			Tudo bem! Procure uma caverna naquela direção, o Franjinha estará lá!
+		</line>
+		<line char="magali" voice="magali6">
+			Vou procurar por alguma comida e vou na frente encontrar o Franjinha! Acho que o cascão está logo aí na frente!
+		</line>
+	</saveMagali>
+	
+	<meetCascao>
+		<line bg="alien2" char="cascao"  side="left" voice="cascao1" music="story2">
+			M-Mônica!! Me tira daqui!
+		</line>
+		<line char="monica" voice="monica13">
+			Para de fazer drama, Cascão! É só água!
+		</line>
+		<line char="cascao"  side="left" voice="cascao2">
+			M-m-mas é tão molhado! Me ajuuuuda!
+		</line>
+		<line char="monica" voice="monica14">
+			Ai, ai...
+		</line>
+		<line char="cascaoAssustado"  side="left" voice="cascao3" music="boss">
+			Mônica...
+		</line>
+		<line voice="cascao4">
+			O que é aquilo atrás de você?
+		</line>
+	</meetCascao>
+	
+	<saveCascao>
+		<line bg="alien2" char="cascaoFeliz"  side="left" music="story2" voice="cascao5">
+			Valeu Mônica!
+		</line>
+		<line char="monica" voice="monica15">
+			Agora você volta pra caverna naquela direção, o Franjinha vai estar te esperando!
+		</line>
+		<line char="cascaoFeliz"  side="left" voice="cascao6">
+			Certo, eu conheço um atalho!
+		</line>
+		<line char="monica" voice="monica16">
+			Tome cuidado!
+		</line>
+		<line char="cascaoFeliz"  side="left" voice="cascao7">
+			Pode deixar!
+		</line>
+	</saveCascao>
+	
+	<meetCebolinha>
+		<line bg="alien3" char="cebolinha"  side="left" voice="cebolinha1" music="story2">
+			Oi, Mônica! Olha que legal o meu tlono!
+		</line>
+		<line char="monica" voice="monica17">
+			Cebolinha! O que está acontecendo aqui?
+		</line>
+		<line char="cebolinha"  side="left"  voice="cebolinha2">
+			Eu achei uma máquina e os alienígenas falalam que eu posso usar como um tlono!
+		</line>
+		<line char="cebolinha"  side="left"  voice="cebolinha3">
+			Eu finalmente sou o lei da lua!!
+		</line>
+		<line  voice="cebolinha4">
+			Quer dizer... não ela bem isso o que eu quelia dizer, mas...
+		</line>
+		<line char="monica" voice="monica18">
+			Olha, Cebolinha, estou muito feliz por você, mas precisamos voltar para o nosso planeta!
+		</line>
+		<line char="cebolinha"  side="left"  voice="cebolinha5">
+			Eu sei, já estou com saudade dos meus pais!
+		</line>
+		<line char="monica" voice="monica19">
+			Então vamos! O Franjinha já deve ter terminado de consertar a máquina de teletransporte, e a Magali e o Cascão já estão nos esperando!
+		</line>
+		<line char="cebolinha"  side="left" voice="cebolinha6">
+			Bem, foi bom enquanto dulou... Deixa eu descer daqui e...
+		</line>
+		<line char="cebolinhaZica"  side="left"  voice="cebolinha7" music="boss">
+			EPA!
+		</line>
+		<line char="monica" voice="monica20">
+			O que foi?
+		</line>
+		<line char="cebolinhaZica"  side="left"  voice="cebolinha8">
+			 Eu não sei contlolar issooooooooooo!
+		</line>
+	</meetCebolinha>
+	
+	
+	<endGame>
+		<line bg="alien3" char="cebolinhaZica"  side="left" music="story2" voice="cebolinha9">
+			Ufa! Obligado mônica! 
+		</line>
+		<line voice="cebolinha10">
+			Acho que a máquina desligou agola.
+		</line>
+		<line char="monica" voice="monica21">
+			Tudo bem! Vamos embora agora?
+		</line>
+		<line char="cebolinha"  side="left" voice="cebolinha11">
+			Vamos!
+		</line>
+		
+		<line bg="none" char="none" autoNext="1.5"></line>
+		
+		<line bg="Cave" char="franjinha" music="story2" side="left" voice="franjinha10">
+			Ufa! Finamente terminei!
+		</line>
+		<line char="turma" voice="monica22">
+			E eu encontrei a turma toda!
+		</line>
+		<line char="cebolinha" voice="cebolinha12">
+			Então vamos voltar pla casa?
+		</line>
+		<line char="cascaoFeliz" voice="cascao8">
+			Vamos!! Eu não acredito que existe um planeta mais molhado que a Terra!
+		</line>
+		<line char="magali" voice="magali7">
+			Hummm, vamos chegar bem na hora do jantar!
+		</line>
+		
+		<line bg="none" char="none" autoNext="2"></line>
+		<line bg="endgame" char="none"></line>
+		<line bg="none" char="none" autoNext="1.5"></line>
+		
+	</endGame>
+	
+</data>

@@ -1,0 +1,61 @@
+<level width="2048" height="608" sky="2" dark="True" cutscene="">
+  <bg exportMode="GridRectangles" />
+  <props>
+    <prop6 id="0" x="560" y="496" />
+    <prop6 id="1" x="112" y="336" />
+    <prop10 id="2" x="1289" y="456" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="64" h="1" />
+    <rect x="0" y="1" w="1" h="18" />
+    <rect x="1" y="6" w="1" h="3" />
+    <rect x="1" y="18" w="63" h="1" />
+    <rect x="2" y="7" w="1" h="2" />
+    <rect x="3" y="8" w="9" h="1" />
+    <rect x="4" y="13" w="14" h="1" />
+    <rect x="6" y="1" w="58" h="1" />
+    <rect x="6" y="2" w="31" h="1" />
+    <rect x="7" y="3" w="29" h="1" />
+    <rect x="8" y="4" w="26" h="1" />
+    <rect x="14" y="9" w="3" h="1" />
+    <rect x="15" y="10" w="2" h="3" />
+    <rect x="16" y="5" w="1" h="4" />
+    <rect x="21" y="11" w="2" h="7" />
+    <rect x="22" y="9" w="5" h="1" />
+    <rect x="22" y="10" w="1" h="1" />
+    <rect x="27" y="13" w="31" h="1" />
+    <rect x="31" y="5" w="2" h="8" />
+    <rect x="33" y="10" w="1" h="1" />
+    <rect x="36" y="7" w="7" h="4" />
+    <rect x="43" y="10" w="21" h="1" />
+    <rect x="48" y="6" w="2" h="4" />
+    <rect x="50" y="9" w="14" h="1" />
+    <rect x="58" y="5" w="6" h="4" />
+    <rect x="60" y="16" w="4" h="2" />
+    <rect x="63" y="2" w="1" h="3" />
+    <rect x="63" y="11" w="1" h="5" />
+  </solid>
+  <objects>
+    <env_door id="0" x="64" y="64" uid="1" goX="1" goY="91" shop="" locked="False" oneWay="True" noEnemies="False" />
+    <en_shooter id="7" x="1056" y="512" />
+    <en_shooter id="8" x="800" y="224" />
+    <npc_alien id="10" x="224" y="192" talk="Essa caverna leva para o pântano!" />
+    <pl_player id="2" x="128" y="224" />
+    <en_snake id="3" x="160" y="384" side="1" />
+    <en_snake id="9" x="1280" y="384" side="1" />
+    <en_snake id="11" x="1824" y="384" side="1" />
+    <en_snake id="12" x="1536" y="384" side="1" />
+    <env_ghostBlock id="1" x="640" y="352" width="32" height="32" timer="4">
+      <node x="640" y="480" />
+    </env_ghostBlock>
+    <env_door id="5" x="1952" y="96" uid="2" goX="2" goY="2" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_ghostBlock id="6" x="1664" y="192" width="32" height="32" timer="3">
+      <node x="1760" y="192" />
+    </env_ghostBlock>
+    <env_ghostBlock id="4" x="1440" y="192" width="32" height="32" timer="3">
+      <node x="1440" y="-224" />
+    </env_ghostBlock>
+    <env_door id="14" x="1952" y="448" uid="3" goX="2" goY="11" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <pl_checkpoint id="13" x="320" y="192" />
+  </objects>
+</level>

@@ -1,0 +1,26 @@
+<level width="640" height="480" sky="2" dark="False" cutscene="">
+  <bg exportMode="GridRectangles" />
+  <props>
+    <prop6 id="0" x="-16" y="368" />
+    <prop6 id="1" x="560" y="368" />
+    <animA id="2" x="128" y="248" />
+    <prop22 id="3" x="48" y="360" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="20" h="4" />
+    <rect x="0" y="4" w="1" h="11" />
+    <rect x="1" y="14" w="19" h="1" />
+    <rect x="3" y="4" w="14" h="1" />
+    <rect x="4" y="5" w="2" h="2" />
+    <rect x="8" y="5" w="2" h="1" />
+    <rect x="13" y="5" w="4" h="1" />
+    <rect x="14" y="6" w="2" h="1" />
+    <rect x="19" y="4" w="1" h="10" />
+  </solid>
+  <objects>
+    <env_door id="1" x="512" y="384" uid="0" goX="1" goY="1" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <pl_player id="2" x="320" y="416" />
+    <npc_generic id="3" x="416" y="384" image="placa" talk="Aperte a seta para cima para passar pela porta!" flip="False" cutscene="" />
+    <npc_generic id="0" x="96" y="384" image="franjinha" talk="Boa sorte, Mônica! Eu vou arrumar a máquina enquanto isso!" flip="False" cutscene="" />
+  </objects>
+</level>

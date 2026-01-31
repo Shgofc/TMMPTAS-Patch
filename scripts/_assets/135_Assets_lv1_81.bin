@@ -1,0 +1,131 @@
+<level width="2048" height="960" sky="1" dark="False" cutscene="">
+  <bg exportMode="GridRectangles">
+    <rect x="0" y="0" w="1" h="21" />
+    <rect x="0" y="22" w="5" h="8" />
+    <rect x="2" y="7" w="2" h="15" />
+    <rect x="4" y="8" w="1" h="14" />
+    <rect x="5" y="11" w="1" h="10" />
+    <rect x="5" y="24" w="5" h="6" />
+    <rect x="6" y="14" w="1" h="3" />
+    <rect x="6" y="21" w="1" h="1" />
+    <rect x="7" y="22" w="3" h="2" />
+    <rect x="8" y="14" w="3" h="5" />
+    <rect x="8" y="19" w="2" h="3" />
+    <rect x="9" y="12" w="1" h="2" />
+    <rect x="10" y="13" w="1" h="1" />
+    <rect x="10" y="26" w="22" h="4" />
+    <rect x="11" y="24" w="20" h="2" />
+    <rect x="12" y="1" w="2" h="3" />
+    <rect x="12" y="21" w="7" h="3" />
+    <rect x="13" y="0" w="1" h="1" />
+    <rect x="13" y="4" w="4" h="4" />
+    <rect x="13" y="18" w="5" h="3" />
+    <rect x="14" y="2" w="1" h="2" />
+    <rect x="14" y="8" w="3" h="10" />
+    <rect x="15" y="3" w="1" h="1" />
+    <rect x="17" y="15" w="1" h="3" />
+    <rect x="18" y="19" w="1" h="2" />
+    <rect x="19" y="23" w="11" h="1" />
+    <rect x="20" y="15" w="5" h="2" />
+    <rect x="20" y="17" w="4" h="6" />
+    <rect x="21" y="6" w="3" h="4" />
+    <rect x="21" y="12" w="4" h="3" />
+    <rect x="22" y="10" w="2" h="2" />
+    <rect x="24" y="11" w="1" h="1" />
+    <rect x="24" y="19" w="6" h="4" />
+    <rect x="26" y="15" w="5" h="3" />
+    <rect x="26" y="18" w="4" h="1" />
+    <rect x="27" y="14" w="3" h="1" />
+    <rect x="32" y="9" w="9" h="3" />
+    <rect x="32" y="22" w="1" h="3" />
+    <rect x="32" y="27" w="32" h="3" />
+    <rect x="33" y="4" w="4" h="5" />
+    <rect x="33" y="12" w="7" h="3" />
+    <rect x="33" y="23" w="1" h="4" />
+    <rect x="34" y="15" w="6" h="2" />
+    <rect x="35" y="17" w="6" h="10" />
+    <rect x="37" y="7" w="4" h="2" />
+    <rect x="38" y="2" w="3" h="5" />
+    <rect x="41" y="18" w="9" h="9" />
+    <rect x="43" y="7" w="5" h="2" />
+    <rect x="43" y="17" w="6" h="1" />
+    <rect x="44" y="6" w="4" h="1" />
+    <rect x="44" y="9" w="4" h="8" />
+    <rect x="45" y="2" w="2" h="4" />
+    <rect x="47" y="3" w="1" h="3" />
+    <rect x="48" y="11" w="1" h="6" />
+    <rect x="50" y="25" w="14" h="2" />
+    <rect x="52" y="11" w="3" h="2" />
+    <rect x="52" y="13" w="2" h="3" />
+    <rect x="52" y="22" w="5" h="3" />
+    <rect x="53" y="9" w="3" h="2" />
+    <rect x="53" y="16" w="1" h="6" />
+    <rect x="54" y="8" w="1" h="1" />
+    <rect x="54" y="17" w="1" h="5" />
+    <rect x="55" y="18" w="4" h="1" />
+    <rect x="55" y="19" w="3" h="1" />
+    <rect x="55" y="20" w="2" h="2" />
+    <rect x="57" y="16" w="5" h="1" />
+    <rect x="57" y="17" w="4" h="1" />
+    <rect x="57" y="23" w="7" h="2" />
+    <rect x="58" y="14" w="5" h="2" />
+    <rect x="59" y="12" w="3" h="2" />
+    <rect x="60" y="22" w="4" h="1" />
+    <rect x="62" y="13" w="1" h="1" />
+  </bg>
+  <props>
+    <prop1 id="0" x="720" y="848" />
+    <prop2 id="1" x="431" y="409" />
+    <prop2 id="2" x="902" y="695" />
+    <prop3 id="3" x="1152" y="656" />
+    <prop3 id="4" x="528" y="112" />
+    <prop1 id="5" x="912" y="240" />
+    <prop4 id="6" x="27" y="458" />
+    <prop4 id="7" x="632" y="552" />
+    <prop8 id="8" x="1040" y="538" />
+    <prop6 id="9" x="368" y="656" />
+    <prop6 id="10" x="1664" y="752" />
+    <prop6 id="11" x="1440" y="80" />
+    <prop6 id="12" x="1168" y="240" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="1" h="30" />
+    <rect x="1" y="20" w="10" h="2" />
+    <rect x="1" y="29" w="63" h="1" />
+    <rect x="3" y="8" w="2" h="2" />
+    <rect x="6" y="11" w="2" h="2" />
+    <rect x="9" y="14" w="2" h="2" />
+    <rect x="10" y="8" w="6" h="2" />
+    <rect x="12" y="23" w="13" h="2" />
+    <rect x="13" y="17" w="8" h="2" />
+    <rect x="14" y="10" w="25" h="1" />
+    <rect x="14" y="25" w="3" h="1" />
+    <rect x="16" y="9" w="11" h="1" />
+    <rect x="25" y="11" w="27" h="1" />
+    <rect x="28" y="26" w="36" h="3" />
+    <rect x="37" y="12" w="14" h="1" />
+    <rect x="42" y="5" w="6" h="2" />
+    <rect x="50" y="8" w="2" h="3" />
+    <rect x="59" y="14" w="5" h="2" />
+    <rect x="63" y="0" w="1" h="14" />
+    <rect x="63" y="16" w="1" h="10" />
+  </solid>
+  <objects>
+    <env_door id="0" x="96" y="864" uid="2" goX="1" goY="62" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="1" x="1952" y="768" uid="5" goX="1" goY="91" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="2" x="64" y="576" uid="21" goX="0" goY="0" shop="gigabaite" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="3" x="672" y="672" uid="20" goX="0" goY="0" shop="gigabaite" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="4" x="1440" y="288" uid="23" goX="0" goY="0" shop="combate" locked="False" oneWay="False" noEnemies="False" />
+    <npc_alien id="5" x="640" y="864" talk="Bem-vinda!" />
+    <npc_alien id="6" x="224" y="576" talk="Tá quente, né?" />
+    <npc_alien id="7" x="1344" y="96" talk="Que pulo, hein?" />
+    <npc_alien id="8" x="576" y="480" talk="Oi, você vem sempre aqui?" />
+    <npc_alien id="9" x="384" y="192" talk="Não podemos ficar aqui para sempre." />
+    <npc_alien id="10" x="1056" y="768" talk="Ei, cuidado a partir daqui!" />
+    <npc_alien id="11" x="1472" y="768" talk="Meu irmão tem razão, cuidado!" />
+    <npc_alien id="12" x="1792" y="768" talk="Meus irmãos estão certos, MUITO CUIDADO a partir dessa porta!" />
+    <env_chest id="13" x="1920" y="384" />
+    <npc_generic id="14" x="384" y="864" image="magali" talk="Por favor, Mônica! Derrote o monstro que está assustando o pessoal!" flip="True" cutscene="meetMagali" />
+    <pl_checkpoint id="15" x="1216" y="768" />
+  </objects>
+</level>

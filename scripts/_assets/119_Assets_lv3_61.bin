@@ -1,0 +1,54 @@
+<level width="640" height="480" sky="1" dark="False" cutscene="">
+  <bg exportMode="GridRectangles" />
+  <props>
+    <prop13 id="0" x="496" y="416" />
+    <prop20 id="1" x="345" y="406" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="20" h="1" />
+    <rect x="0" y="1" w="1" h="14" />
+    <rect x="1" y="14" w="19" h="1" />
+    <rect x="19" y="1" w="1" h="13" />
+  </solid>
+  <objects>
+    <env_door id="0" x="64" y="384" uid="3" goX="3" goY="5" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="1" x="544" y="64" uid="5" goX="3" goY="7" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_oneWay id="10" x="576" y="128" />
+    <env_oneWay id="11" x="544" y="128" />
+    <env_oneWay id="12" x="512" y="128" />
+    <env_oneWay id="2" x="384" y="128" />
+    <env_oneWay id="3" x="352" y="128" />
+    <env_oneWay id="4" x="320" y="128" />
+    <env_oneWay id="5" x="192" y="128" />
+    <env_oneWay id="6" x="160" y="128" />
+    <env_oneWay id="7" x="128" y="128" />
+    <env_oneWay id="8" x="480" y="192" />
+    <env_oneWay id="9" x="448" y="192" />
+    <env_oneWay id="13" x="416" y="192" />
+    <env_oneWay id="14" x="288" y="192" />
+    <env_oneWay id="15" x="256" y="192" />
+    <env_oneWay id="16" x="224" y="192" />
+    <env_oneWay id="17" x="96" y="192" />
+    <env_oneWay id="18" x="64" y="192" />
+    <env_oneWay id="19" x="32" y="192" />
+    <env_oneWay id="20" x="576" y="320" />
+    <env_oneWay id="21" x="544" y="320" />
+    <env_oneWay id="22" x="512" y="320" />
+    <env_oneWay id="23" x="384" y="320" />
+    <env_oneWay id="24" x="352" y="320" />
+    <env_oneWay id="25" x="320" y="320" />
+    <env_oneWay id="26" x="192" y="320" />
+    <env_oneWay id="27" x="160" y="320" />
+    <env_oneWay id="28" x="128" y="320" />
+    <env_oneWay id="32" x="480" y="384" />
+    <env_oneWay id="33" x="448" y="384" />
+    <env_oneWay id="34" x="416" y="384" />
+    <env_oneWay id="35" x="288" y="384" />
+    <env_oneWay id="36" x="256" y="384" />
+    <env_oneWay id="37" x="224" y="384" />
+    <en_bullet id="29" x="64" y="128" />
+    <en_bullet id="30" x="512" y="192" />
+    <en_bullet id="31" x="64" y="256" />
+    <en_bullet id="38" x="512" y="320" />
+  </objects>
+</level>

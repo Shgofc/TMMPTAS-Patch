@@ -1,0 +1,169 @@
+<level width="1024" height="1024" sky="1" dark="False" cutscene="">
+  <bg exportMode="GridRectangles">
+    <rect x="0" y="19" w="11" h="1" />
+    <rect x="0" y="20" w="9" h="3" />
+    <rect x="0" y="23" w="8" h="2" />
+    <rect x="0" y="25" w="7" h="7" />
+    <rect x="1" y="14" w="3" h="1" />
+    <rect x="1" y="15" w="2" h="4" />
+    <rect x="2" y="13" w="2" h="1" />
+    <rect x="3" y="10" w="2" h="2" />
+    <rect x="3" y="12" w="1" h="1" />
+    <rect x="3" y="17" w="1" h="2" />
+    <rect x="4" y="8" w="4" h="1" />
+    <rect x="4" y="9" w="3" h="1" />
+    <rect x="4" y="18" w="2" h="1" />
+    <rect x="5" y="7" w="4" h="1" />
+    <rect x="7" y="5" w="6" h="1" />
+    <rect x="7" y="6" w="2" h="1" />
+    <rect x="7" y="28" w="1" h="4" />
+    <rect x="8" y="4" w="6" h="1" />
+    <rect x="8" y="29" w="5" h="3" />
+    <rect x="9" y="1" w="8" h="1" />
+    <rect x="9" y="2" w="6" h="1" />
+    <rect x="9" y="3" w="5" h="1" />
+    <rect x="10" y="0" w="7" h="1" />
+    <rect x="10" y="6" w="3" h="1" />
+    <rect x="10" y="7" w="2" h="2" />
+    <rect x="10" y="17" w="2" h="2" />
+    <rect x="10" y="20" w="22" h="1" />
+    <rect x="10" y="21" w="11" h="2" />
+    <rect x="10" y="28" w="3" h="1" />
+    <rect x="11" y="9" w="1" h="8" />
+    <rect x="11" y="23" w="10" h="3" />
+    <rect x="11" y="26" w="4" h="1" />
+    <rect x="11" y="27" w="3" h="1" />
+    <rect x="12" y="10" w="1" h="7" />
+    <rect x="13" y="18" w="1" h="2" />
+    <rect x="13" y="31" w="19" h="1" />
+    <rect x="14" y="19" w="18" h="1" />
+    <rect x="16" y="2" w="1" h="3" />
+    <rect x="16" y="6" w="2" h="1" />
+    <rect x="16" y="7" w="1" h="7" />
+    <rect x="16" y="26" w="13" h="1" />
+    <rect x="16" y="27" w="12" h="1" />
+    <rect x="17" y="5" w="1" h="1" />
+    <rect x="17" y="12" w="1" h="4" />
+    <rect x="17" y="28" w="11" h="1" />
+    <rect x="17" y="29" w="10" h="2" />
+    <rect x="18" y="0" w="7" h="1" />
+    <rect x="18" y="7" w="1" h="2" />
+    <rect x="18" y="14" w="1" h="3" />
+    <rect x="19" y="1" w="7" h="1" />
+    <rect x="19" y="9" w="1" h="2" />
+    <rect x="19" y="15" w="1" h="4" />
+    <rect x="20" y="2" w="6" h="2" />
+    <rect x="20" y="10" w="1" h="3" />
+    <rect x="20" y="17" w="2" h="1" />
+    <rect x="20" y="18" w="1" h="1" />
+    <rect x="21" y="4" w="6" h="1" />
+    <rect x="21" y="12" w="1" h="5" />
+    <rect x="22" y="5" w="5" h="1" />
+    <rect x="22" y="21" w="10" h="1" />
+    <rect x="23" y="6" w="5" h="1" />
+    <rect x="23" y="22" w="9" h="1" />
+    <rect x="24" y="7" w="4" h="1" />
+    <rect x="24" y="23" w="8" h="3" />
+    <rect x="25" y="8" w="3" h="1" />
+    <rect x="26" y="9" w="3" h="2" />
+    <rect x="27" y="11" w="3" h="1" />
+    <rect x="28" y="12" w="2" h="4" />
+    <rect x="28" y="18" w="2" h="1" />
+    <rect x="29" y="16" w="1" h="2" />
+    <rect x="30" y="26" w="2" h="5" />
+  </bg>
+  <props>
+    <prop5 id="0" x="128" y="80" />
+    <prop9 id="1" x="448" y="144" />
+    <prop9 id="2" x="640" y="416" />
+    <prop9 id="3" x="192" y="448" />
+    <prop7 id="4" x="400" y="368" />
+    <prop8 id="5" x="816" y="256" />
+    <prop10 id="6" x="112" y="496" />
+    <prop10 id="7" x="704" y="480" />
+    <prop6 id="8" x="688" y="208" />
+    <prop6 id="9" x="848" y="480" />
+    <prop6 id="10" x="800" y="512" />
+    <prop6 id="11" x="832" y="528" />
+    <prop6 id="12" x="720" y="912" />
+    <prop6 id="13" x="176" y="912" />
+    <prop6 id="14" x="688" y="688" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="8" w="1" h="24" />
+    <rect x="1" y="13" w="4" h="1" />
+    <rect x="1" y="24" w="2" h="1" />
+    <rect x="1" y="29" w="3" h="3" />
+    <rect x="4" y="14" w="2" h="1" />
+    <rect x="4" y="19" w="22" h="1" />
+    <rect x="4" y="31" w="28" h="1" />
+    <rect x="5" y="7" w="3" h="1" />
+    <rect x="5" y="15" w="3" h="1" />
+    <rect x="7" y="16" w="2" h="3" />
+    <rect x="9" y="10" w="4" h="1" />
+    <rect x="9" y="18" w="1" h="1" />
+    <rect x="9" y="24" w="3" h="1" />
+    <rect x="11" y="16" w="3" h="3" />
+    <rect x="11" y="20" w="1" h="4" />
+    <rect x="11" y="25" w="1" h="4" />
+    <rect x="15" y="6" w="4" h="1" />
+    <rect x="15" y="13" w="4" h="1" />
+    <rect x="15" y="23" w="1" h="8" />
+    <rect x="16" y="29" w="2" h="2" />
+    <rect x="17" y="17" w="1" h="2" />
+    <rect x="18" y="30" w="1" h="1" />
+    <rect x="20" y="17" w="2" h="2" />
+    <rect x="21" y="15" w="1" h="2" />
+    <rect x="21" y="24" w="5" h="1" />
+    <rect x="22" y="9" w="4" h="1" />
+    <rect x="22" y="18" w="1" h="1" />
+    <rect x="23" y="25" w="3" h="1" />
+    <rect x="24" y="23" w="2" h="1" />
+    <rect x="24" y="26" w="2" h="1" />
+    <rect x="25" y="20" w="1" h="3" />
+    <rect x="25" y="27" w="1" h="2" />
+    <rect x="26" y="22" w="2" h="1" />
+    <rect x="28" y="7" w="4" h="1" />
+    <rect x="28" y="17" w="4" h="1" />
+    <rect x="29" y="25" w="3" h="2" />
+    <rect x="30" y="27" w="2" h="4" />
+    <rect x="31" y="1" w="1" h="6" />
+    <rect x="31" y="8" w="1" h="9" />
+    <rect x="31" y="18" w="1" h="7" />
+  </solid>
+  <objects>
+    <env_door id="0" x="64" y="352" uid="11" goX="2" goY="64" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_oneWay id="1" x="672" y="320" />
+    <env_oneWay id="2" x="640" y="320" />
+    <env_oneWay id="3" x="608" y="192" />
+    <env_oneWay id="5" x="256" y="224" />
+    <env_oneWay id="6" x="832" y="288" />
+    <env_water id="7" x="32" y="544" width="960" height="448" />
+    <env_door id="8" x="64" y="480" uid="100" goX="0" goY="0" shop="secreta" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="9" x="320" y="256" uid="12" goX="0" goY="0" shop="gigabaite" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="10" x="544" y="128" uid="13" goX="0" goY="0" shop="combate" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="11" x="768" y="224" uid="14" goX="0" goY="0" shop="gigabaite" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="12" x="928" y="160" uid="15" goX="2" goY="81" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <pl_checkpoint id="13" x="160" y="384" />
+    <env_oneWay id="14" x="32" y="544" />
+    <env_oneWay id="15" x="64" y="544" />
+    <env_oneWay id="16" x="96" y="544" />
+    <en_fish id="17" x="96" y="896">
+      <node x="320" y="896" />
+    </en_fish>
+    <en_fish id="18" x="896" y="768">
+      <node x="960" y="768" />
+    </en_fish>
+    <en_fish id="19" x="704" y="832">
+      <node x="576" y="736" />
+      <node x="672" y="960" />
+    </en_fish>
+    <npc_alien id="4" x="224" y="160" talk="Bem vindo a nossa cidade! Não é mutia coisa, mas é o que tem para hoje." />
+    <npc_alien id="20" x="544" y="352" talk="Dizem que tem uma loja secreta escondida aqui. Eu nunca achei, MAS DIZEM." />
+    <npc_alien id="21" x="288" y="704" talk="Eu respiro em baixo d'água!" />
+    <env_oneWay id="26" x="192" y="832" />
+    <env_oneWay id="27" x="224" y="832" />
+    <env_oneWay id="28" x="256" y="832" />
+    <env_oneWay id="31" x="448" y="832" />
+  </objects>
+</level>

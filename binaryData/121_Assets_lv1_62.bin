@@ -1,0 +1,23 @@
+<level width="640" height="480" sky="2" dark="False" cutscene="">
+  <bg exportMode="GridRectangles" />
+  <props>
+    <prop11 id="0" x="431" y="350" />
+    <prop6 id="1" x="4" y="341" />
+    <prop1 id="2" x="144" y="332" />
+    <prop4 id="3" x="62" y="231" />
+    <prop4 id="4" x="473" y="228" />
+    <prop8 id="5" x="283" y="117" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="20" h="3" />
+    <rect x="0" y="3" w="1" h="12" />
+    <rect x="1" y="13" w="19" h="2" />
+    <rect x="19" y="3" w="1" h="10" />
+  </solid>
+  <objects>
+    <npc_generic id="1" x="224" y="352" image="placa" talk="Pule no baú para abrir!" flip="False" cutscene="" />
+    <env_door id="2" x="96" y="352" uid="1" goX="1" goY="61" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="3" x="512" y="352" uid="2" goX="1" goY="81" shop="" locked="True" oneWay="False" noEnemies="False" />
+    <col_key id="0" x="320" y="352" onChest="True" />
+  </objects>
+</level>

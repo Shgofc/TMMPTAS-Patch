@@ -1,0 +1,65 @@
+<level width="1280" height="480" sky="1" dark="False" cutscene="">
+  <bg exportMode="GridRectangles">
+    <rect x="0" y="10" w="4" h="5" />
+    <rect x="1" y="9" w="4" h="1" />
+    <rect x="4" y="8" w="8" h="1" />
+    <rect x="6" y="7" w="7" h="1" />
+    <rect x="8" y="14" w="6" h="1" />
+    <rect x="9" y="6" w="4" h="1" />
+    <rect x="9" y="13" w="5" h="1" />
+    <rect x="11" y="5" w="22" h="1" />
+    <rect x="11" y="12" w="4" h="1" />
+    <rect x="12" y="4" w="20" h="1" />
+    <rect x="12" y="11" w="4" h="1" />
+    <rect x="14" y="9" w="2" h="2" />
+    <rect x="18" y="6" w="8" h="1" />
+    <rect x="18" y="10" w="2" h="5" />
+    <rect x="20" y="7" w="4" h="1" />
+    <rect x="20" y="12" w="1" h="3" />
+    <rect x="21" y="13" w="1" h="2" />
+    <rect x="24" y="9" w="1" h="5" />
+    <rect x="25" y="11" w="1" h="4" />
+    <rect x="26" y="12" w="2" h="3" />
+    <rect x="28" y="13" w="3" h="2" />
+    <rect x="29" y="6" w="5" h="1" />
+    <rect x="31" y="7" w="5" h="1" />
+    <rect x="32" y="8" w="5" h="1" />
+    <rect x="35" y="9" w="3" h="1" />
+    <rect x="36" y="10" w="2" h="1" />
+  </bg>
+  <props>
+    <prop2 id="0" x="1106" y="185" />
+    <prop8 id="1" x="772" y="87" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="14" w="6" h="1" />
+    <rect x="1" y="9" w="3" h="2" />
+    <rect x="7" y="12" w="10" h="2" />
+    <rect x="8" y="6" w="2" h="2" />
+    <rect x="11" y="4" w="2" h="2" />
+    <rect x="20" y="12" w="2" h="2" />
+    <rect x="21" y="4" w="2" h="2" />
+    <rect x="26" y="12" w="5" h="2" />
+    <rect x="31" y="4" w="2" h="2" />
+    <rect x="33" y="10" w="7" h="2" />
+    <rect x="35" y="12" w="5" h="1" />
+    <rect x="37" y="13" w="3" h="1" />
+    <rect x="38" y="14" w="2" h="1" />
+  </solid>
+  <objects>
+    <env_door id="0" x="64" y="384" uid="5" goX="1" goY="51" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="1" x="1184" y="256" uid="1" goX="1" goY="62" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <en_winged id="3" x="192" y="128">
+      <node x="192" y="256" />
+    </en_winged>
+    <en_winged id="5" x="864" y="96">
+      <node x="864" y="192" />
+    </en_winged>
+    <en_winged id="4" x="544" y="96">
+      <node x="544" y="192" />
+    </en_winged>
+    <en_snake id="2" x="256" y="352" side="1" />
+    <en_snake id="7" x="864" y="352" side="1" />
+    <en_snake id="8" x="512" y="352" side="1" />
+  </objects>
+</level>

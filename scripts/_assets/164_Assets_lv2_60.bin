@@ -1,0 +1,24 @@
+<level width="640" height="480" sky="2" dark="True" cutscene="">
+  <bg exportMode="GridRectangles" />
+  <props>
+    <prop10 id="0" x="214" y="230" />
+    <prop7 id="1" x="40" y="111" />
+    <prop6 id="2" x="113" y="273" />
+    <prop6 id="3" x="426" y="270" />
+    <prop9 id="4" x="337" y="292" />
+    <prop5 id="5" x="253" y="210" />
+    <prop6 id="6" x="478" y="273" />
+    <prop11 id="7" x="126" y="285" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="20" h="5" />
+    <rect x="0" y="5" w="3" h="10" />
+    <rect x="3" y="11" w="17" h="4" />
+    <rect x="17" y="5" w="3" h="6" />
+  </solid>
+  <objects>
+    <env_water id="0" x="96" y="288" width="448" height="64" />
+    <env_door id="1" x="160" y="288" uid="77" goX="2" goY="63" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="2" x="416" y="288" uid="78" goX="2" goY="63" shop="" locked="False" oneWay="False" noEnemies="False" />
+  </objects>
+</level>
