@@ -1,0 +1,54 @@
+<level width="640" height="1024" sky="1" dark="False" cutscene="">
+  <bg exportMode="GridRectangles" />
+  <props>
+    <prop11 id="0" x="240" y="320" />
+    <prop12 id="1" x="320" y="176" />
+    <prop12 id="2" x="320" y="592" />
+    <prop12 id="3" x="416" y="784" />
+    <prop13 id="4" x="128" y="960" />
+    <prop13 id="5" x="240" y="576" />
+    <prop20 id="6" x="193" y="153" />
+    <prop19 id="7" x="257" y="153" />
+    <prop19 id="8" x="328" y="949" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="1" h="32" />
+    <rect x="1" y="5" w="5" h="2" />
+    <rect x="1" y="7" w="1" h="2" />
+    <rect x="1" y="17" w="1" h="4" />
+    <rect x="1" y="28" w="1" h="4" />
+    <rect x="2" y="18" w="3" h="2" />
+    <rect x="2" y="29" w="2" h="3" />
+    <rect x="3" y="12" w="12" h="2" />
+    <rect x="3" y="23" w="2" h="2" />
+    <rect x="4" y="11" w="4" h="1" />
+    <rect x="4" y="14" w="10" h="1" />
+    <rect x="4" y="31" w="16" h="1" />
+    <rect x="5" y="7" w="10" h="1" />
+    <rect x="5" y="19" w="12" h="1" />
+    <rect x="5" y="24" w="8" h="2" />
+    <rect x="6" y="6" w="6" h="1" />
+    <rect x="9" y="20" w="8" h="1" />
+    <rect x="12" y="8" w="4" h="1" />
+    <rect x="12" y="18" w="4" h="1" />
+    <rect x="13" y="21" w="3" h="1" />
+    <rect x="13" y="25" w="7" h="1" />
+    <rect x="15" y="13" w="5" h="1" />
+    <rect x="17" y="12" w="3" h="1" />
+    <rect x="18" y="11" w="2" h="1" />
+    <rect x="18" y="14" w="2" h="1" />
+    <rect x="19" y="0" w="1" h="11" />
+    <rect x="19" y="15" w="1" h="10" />
+    <rect x="19" y="26" w="1" h="5" />
+  </solid>
+  <objects>
+    <env_door id="0" x="64" y="96" uid="1" goX="3" goY="4" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="1" x="544" y="928" uid="3" goX="3" goY="61" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <pl_checkpoint id="2" x="448" y="928" />
+    <en_turret id="3" x="160" y="320" />
+    <en_turret id="4" x="448" y="544" />
+    <en_turret id="5" x="192" y="736" />
+    <en_bullet id="6" x="256" y="928" />
+    <en_bullet id="7" x="480" y="896" />
+  </objects>
+</level>

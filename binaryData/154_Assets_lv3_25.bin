@@ -1,0 +1,51 @@
+<level width="1664" height="640" sky="2" dark="True" cutscene="">
+  <bg exportMode="GridRectangles" />
+  <props>
+    <prop19 id="0" x="458" y="87" />
+    <prop19 id="1" x="1166" y="405" />
+    <prop20 id="2" x="1070" y="405" />
+    <prop21 id="3" x="650" y="407" />
+    <prop18 id="4" x="586" y="407" />
+    <prop18 id="5" x="1508" y="569" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="52" h="1" />
+    <rect x="0" y="1" w="1" h="19" />
+    <rect x="1" y="4" w="3" h="2" />
+    <rect x="1" y="6" w="2" h="3" />
+    <rect x="1" y="9" w="1" h="2" />
+    <rect x="1" y="17" w="2" h="3" />
+    <rect x="3" y="18" w="1" h="2" />
+    <rect x="4" y="19" w="48" h="1" />
+    <rect x="6" y="10" w="5" h="1" />
+    <rect x="6" y="11" w="4" h="2" />
+    <rect x="6" y="13" w="3" h="2" />
+    <rect x="7" y="6" w="2" h="4" />
+    <rect x="8" y="1" w="1" h="5" />
+    <rect x="9" y="9" w="1" h="1" />
+    <rect x="9" y="14" w="36" h="1" />
+    <rect x="13" y="4" w="34" h="1" />
+    <rect x="39" y="13" w="6" h="1" />
+    <rect x="41" y="15" w="6" h="1" />
+    <rect x="42" y="12" w="3" h="1" />
+    <rect x="43" y="11" w="2" h="1" />
+    <rect x="44" y="5" w="1" h="6" />
+    <rect x="45" y="9" w="2" h="1" />
+    <rect x="49" y="6" w="3" h="1" />
+    <rect x="49" y="12" w="3" h="1" />
+    <rect x="49" y="17" w="3" h="2" />
+    <rect x="51" y="1" w="1" h="5" />
+    <rect x="51" y="7" w="1" h="5" />
+    <rect x="51" y="13" w="1" h="4" />
+  </solid>
+  <objects>
+    <env_door id="0" x="64" y="64" uid="7" goX="3" goY="21" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="1" x="800" y="64" uid="6" goX="3" goY="21" shop="" locked="True" oneWay="False" noEnemies="False" />
+    <col_key id="2" x="352" y="384" onChest="False" />
+    <en_bullet id="3" x="224" y="544" />
+    <en_bullet id="4" x="640" y="480" />
+    <en_bullet id="5" x="1120" y="544" />
+    <env_door id="6" x="1280" y="352" uid="8" goX="3" goY="26" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <en_turret id="8" x="928" y="416" />
+  </objects>
+</level>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<externalTiles>
+		<top y="11">0, 1, 2, 2, 2, 2, 2, 2</top>
+		<singleTop y="11">16</singleTop>
+		<bottom>9,10,11</bottom>
+		<left></left>
+		<right></right>
+		
+		<topRight y="11">14</topRight>
+		<topLeft  y="11">15</topLeft>
+	</externalTiles>
+	<internalTiles>
+		<bottom>6,7,8</bottom>
+		<top>3,4,5</top>
+		<left>9,10,11</left>
+		<right>12,13,14</right>
+		<middle>0,1,2</middle>
+		<single>45,46,47</single>
+		
+		<singleHorizontalCenter>27,28,29</singleHorizontalCenter>
+		<singleVerticalCenter>30,31,32</singleVerticalCenter>
+		<singleHorizontalRight>33,34,35</singleHorizontalRight>
+		<singleHorizontalLeft>36,37,38</singleHorizontalLeft>
+		<singleVerticalTop>39,40,41</singleVerticalTop>
+		<singleVerticalBottom>42,43,44</singleVerticalBottom>
+		
+		<topLeft>15,16,17</topLeft>
+		<topRight>18,19,20</topRight>
+		<bottomLeft>21,22,23</bottomLeft>
+		<bottomRight>24,25,26</bottomRight>
+		
+		<insideBottomRight>54,55,56</insideBottomRight>
+		<insideBottomLeft>48,49,50</insideBottomLeft>
+		<insideTopRight>57,58,59</insideTopRight>
+		<insideTopLeft>51,52,53</insideTopLeft>
+		
+		<junction>60,61</junction>
+	</internalTiles>
+</data>

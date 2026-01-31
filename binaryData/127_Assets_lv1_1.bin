@@ -1,0 +1,57 @@
+<level width="1984" height="672" sky="1" dark="False" cutscene="">
+  <bg exportMode="GridRectangles">
+    <rect x="0" y="11" w="5" h="10" />
+    <rect x="5" y="12" w="1" h="9" />
+    <rect x="6" y="13" w="1" h="8" />
+    <rect x="7" y="14" w="3" h="7" />
+    <rect x="10" y="15" w="3" h="6" />
+    <rect x="13" y="16" w="22" h="5" />
+    <rect x="14" y="14" w="9" h="2" />
+    <rect x="15" y="13" w="6" h="1" />
+    <rect x="16" y="11" w="4" h="2" />
+    <rect x="17" y="9" w="3" h="2" />
+    <rect x="23" y="15" w="7" h="1" />
+    <rect x="25" y="11" w="4" h="4" />
+    <rect x="29" y="14" w="1" h="1" />
+    <rect x="31" y="10" w="3" h="3" />
+    <rect x="31" y="15" w="3" h="1" />
+    <rect x="32" y="13" w="2" h="2" />
+  </bg>
+  <props>
+    <prop1 id="0" x="608" y="464" />
+    <prop1 id="1" x="1152" y="432" />
+    <prop1 id="2" x="1440" y="336" />
+    <prop1 id="3" x="224" y="400" />
+    <prop4 id="4" x="997" y="137" />
+    <prop4 id="5" x="1821" y="327" />
+    <prop6 id="6" x="784" y="272" />
+    <prop8 id="7" x="120" y="183" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="6" w="1" h="15" />
+    <rect x="1" y="14" w="1" h="7" />
+    <rect x="2" y="15" w="17" h="6" />
+    <rect x="12" y="13" w="7" h="2" />
+    <rect x="19" y="17" w="10" h="4" />
+    <rect x="25" y="11" w="4" h="1" />
+    <rect x="29" y="18" w="33" h="3" />
+    <rect x="31" y="10" w="4" h="1" />
+    <rect x="36" y="16" w="26" h="2" />
+    <rect x="40" y="14" w="12" h="2" />
+    <rect x="42" y="13" w="10" h="1" />
+    <rect x="61" y="6" w="1" h="10" />
+  </solid>
+  <objects>
+    <en_dumbSnake id="1" x="976" y="544" />
+    <env_door id="7" x="1856" y="448" uid="3" goX="1" goY="32" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <en_dumbSnake id="2" x="896" y="320" />
+    <en_dumbSnake id="3" x="1696" y="480" />
+    <env_door id="9" x="1024" y="256" uid="6" goX="1" goY="31" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="4" x="96" y="416" uid="0" goX="1" goY="0" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <npc_generic id="8" x="304" y="416" image="placa" talk="Aperte &quot;Z&quot; para pular!" flip="False" cutscene="" />
+    <env_oneWay id="0" x="608" y="448" />
+    <env_oneWay id="5" x="640" y="448" />
+    <pl_checkpoint id="6" x="384" y="352" />
+    <env_door id="10" x="864" y="480" uid="11" goX="0" goY="0" shop="gigabaite" locked="False" oneWay="False" noEnemies="False" />
+  </objects>
+</level>

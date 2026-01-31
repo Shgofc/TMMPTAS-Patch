@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<gigabaite>
+		<vitamina title="Vitamina" price="10" image="3">A vitamina recupera 3 corações!</vitamina>
+		<suco title="Suco" price="5" image="2">O suco recupera 1 coração!</suco>
+	</gigabaite>
+	
+	<pocoes>
+		<puloAlto title="Suco de Borracha" price="40" image="4">O suco de borracha não é gostoso, mas faz você pular muito mais alto!</puloAlto>
+		<velocidade title="Extrato de Rapidez" price="30" image="5">O Extrato de Rapidez vai te deixar... mais rápida!</velocidade>
+	</pocoes>
+	
+	<combate>
+		<invencivel title="Poção de Invencibilidade" price="80" image="6">Com essa poção você vai ficar invencível durante 20 segundos! Aproveite bem!</invencivel>
+		<pesada title="Melancia de Chumbo" price="50" image="7">Se você comer essa melancia você vai ficar mais lenta, mas derrotará qualquer inimigo com um único acerto!</pesada>
+	</combate>
+	
+	<secreta>
+		<coracao title="Ultravitamina" price="200" image="8">Uma ultravitamina te dá um coração extra!</coracao>
+		<oculos title="Óculos de Visão Noturna" price="100" image="9">Com esses óculos você pode ver muito melhor no escuro!</oculos>
+	</secreta>
+	
+</data>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e2ce71bbacb3828cb7acbdf0f11f1c04:1/2$ -->
+<TextureAtlas imagePath="atlas_menu0.png">
+    <SubTexture name="characters/cebolinha" x="644" y="1620" width="248" height="313"/>
+    <SubTexture name="characters/cebolinhaZica" x="894" y="1620" width="248" height="313"/>
+    <SubTexture name="characters/franjinha" x="1144" y="1650" width="236" height="272"/>
+    <SubTexture name="characters/franjinhaEnvergonhado" x="1382" y="1650" width="236" height="272"/>
+    <SubTexture name="characters/franjinhaSerio" x="1620" y="1650" width="236" height="272"/>
+    <SubTexture name="cutBaloon" x="827" y="994" width="338" height="155"/>
+    <SubTexture name="cutscenes/Cave" x="2" y="2" width="640" height="480"/>
+    <SubTexture name="cutscenes/alien" x="644" y="2" width="640" height="480"/>
+    <SubTexture name="cutscenes/alien2" x="1286" y="2" width="640" height="480"/>
+    <SubTexture name="cutscenes/alien3" x="2" y="1006" width="640" height="480"/>
+    <SubTexture name="cutscenes/endgame" x="580" y="512" width="640" height="480"/>
+    <SubTexture name="cutscenes/lab" x="1222" y="484" width="640" height="480"/>
+    <SubTexture name="interface/back" x="2" y="1970" width="64" height="64"/>
+    <SubTexture name="interface/baloon" x="827" y="1935" width="274" height="111"/>
+    <SubTexture name="interface/confirmationBg" x="827" y="1364" width="300" height="254"/>
+    <SubTexture name="interface/continue" x="1705" y="1924" width="218" height="47"/>
+    <SubTexture name="interface/emptyHeart" x="2006" y="512" width="36" height="36"/>
+    <SubTexture name="interface/fullHeart" x="2006" y="550" width="36" height="36"/>
+    <SubTexture name="interface/gameOver" x="1103" y="1935" width="600" height="100"/>
+    <SubTexture name="interface/glow" x="2" y="512" width="576" height="492"/>
+    <SubTexture name="interface/halfHeart" x="2006" y="588" width="36" height="36"/>
+    <SubTexture name="interface/home" x="68" y="1970" width="64" height="64"/>
+    <SubTexture name="interface/hudHolder" x="134" y="1970" width="480" height="55"/>
+    <SubTexture name="interface/mainMenu" x="1222" y="966" width="640" height="480"/>
+    <SubTexture name="interface/messageBg" x="1144" y="1448" width="397" height="200"/>
+    <SubTexture name="interface/music" x="2013" y="2" width="32" height="32"/>
+    <SubTexture name="interface/newGame" x="1705" y="1973" width="218" height="47"/>
+    <SubTexture name="interface/nextLine" x="616" y="1970" width="209" height="48"/>
+    <SubTexture name="interface/noMusic" x="2013" y="36" width="32" height="32"/>
+    <SubTexture name="interface/noSound" x="2013" y="70" width="32" height="32"/>
+    <SubTexture name="interface/oxigen" x="1864" y="767" width="128" height="128"/>
+    <SubTexture name="interface/oxigenPointer" x="1864" y="897" width="128" height="128"/>
+    <SubTexture name="interface/pause" x="2013" y="104" width="32" height="32"/>
+    <SubTexture name="interface/pauseMenuBg" x="1705" y="1448" width="300" height="200"/>
+    <SubTexture name="interface/pular" x="1864" y="712" width="48" height="48"/>
+    <SubTexture name="interface/sound" x="2013" y="138" width="32" height="32"/>
+    <SubTexture name="interface/stats_heavy" x="1864" y="484" width="55" height="55"/>
+    <SubTexture name="interface/stats_invenc" x="1864" y="541" width="55" height="55"/>
+    <SubTexture name="interface/stats_jump" x="1864" y="598" width="55" height="55"/>
+    <SubTexture name="interface/stats_rapido" x="1864" y="655" width="55" height="55"/>
+    <SubTexture name="interface/tittle" x="827" y="1151" width="303" height="211"/>
+    <SubTexture name="shop/bg" x="2" y="1488" width="640" height="480"/>
+    <SubTexture name="shop/item0000" x="1928" y="2" width="83" height="83"/>
+    <SubTexture name="shop/item0001" x="1928" y="87" width="83" height="83"/>
+    <SubTexture name="shop/item0002" x="1928" y="172" width="83" height="83"/>
+    <SubTexture name="shop/item0003" x="1928" y="257" width="83" height="83"/>
+    <SubTexture name="shop/item0004" x="1928" y="342" width="83" height="83"/>
+    <SubTexture name="shop/item0005" x="1928" y="427" width="83" height="83"/>
+    <SubTexture name="shop/item0006" x="1921" y="512" width="83" height="83"/>
+    <SubTexture name="shop/item0007" x="1921" y="597" width="83" height="83"/>
+    <SubTexture name="shop/item0008" x="1921" y="682" width="83" height="83"/>
+    <SubTexture name="shop/item_empty" x="1132" y="1151" width="83" height="83"/>
+</TextureAtlas>

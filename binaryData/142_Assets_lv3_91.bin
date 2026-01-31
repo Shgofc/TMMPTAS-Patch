@@ -1,0 +1,48 @@
+<level width="1408" height="480" sky="2" dark="False" cutscene="meetCebolinha">
+  <bg exportMode="GridRectangles">
+    <rect x="6" y="7" w="4" h="2" />
+    <rect x="8" y="6" w="2" h="1" />
+    <rect x="8" y="9" w="2" h="5" />
+    <rect x="31" y="6" w="2" h="8" />
+    <rect x="33" y="7" w="3" h="2" />
+  </bg>
+  <props>
+    <prop16 id="1" x="1008" y="64" />
+    <prop15 id="2" x="96" y="112" />
+    <prop13 id="3" x="32" y="384" />
+    <prop12 id="4" x="319" y="394" />
+    <prop11 id="5" x="1136" y="352" />
+    <prop13 id="6" x="896" y="128" />
+    <prop12 id="7" x="345" y="136" />
+    <prop19 id="0" x="281" y="120" />
+    <prop20 id="8" x="1065" y="374" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="3" w="2" h="12" />
+    <rect x="2" y="13" w="42" h="2" />
+    <rect x="4" y="7" w="2" h="2" />
+    <rect x="8" y="5" w="5" h="2" />
+    <rect x="28" y="5" w="5" h="2" />
+    <rect x="35" y="7" w="2" h="2" />
+    <rect x="38" y="0" w="3" h="1" />
+    <rect x="42" y="2" w="2" h="11" />
+  </solid>
+  <objects>
+    <en_boss id="0" x="608" y="224" type="cebola" />
+    <env_door id="8" x="1129" y="162" uid="3" goX="1" goY="1" shop="" locked="False" oneWay="True" noEnemies="False" />
+    <env_oneWay id="1" x="1184" y="256" />
+    <env_oneWay id="2" x="1216" y="256" />
+    <env_oneWay id="5" x="1248" y="320" />
+    <env_oneWay id="6" x="1280" y="320" />
+    <env_oneWay id="3" x="64" y="288" />
+    <env_oneWay id="4" x="96" y="288" />
+    <env_oneWay id="7" x="64" y="352" />
+    <env_oneWay id="8" x="96" y="352" />
+    <env_drops id="9" x="256" y="224" />
+    <env_drops id="10" x="1024" y="224" />
+    <env_drops id="11" x="1248" y="32" />
+    <env_oneWay id="12" x="1248" y="256" />
+    <env_oneWay id="13" x="1280" y="256" />
+    <env_oneWay id="14" x="1312" y="256" />
+  </objects>
+</level>

@@ -1,0 +1,32 @@
+<level width="1024" height="640" sky="1" dark="False" cutscene="">
+  <bg exportMode="GridRectangles" />
+  <props>
+    <prop15 id="0" x="304" y="160" />
+    <prop15 id="1" x="170" y="56" />
+    <prop16 id="2" x="224" y="512" />
+    <prop15 id="5" x="736" y="464" />
+    <prop13 id="7" x="736" y="576" />
+    <prop17 id="3" x="288" y="0" />
+    <prop20 id="4" x="483" y="568" />
+    <prop19 id="6" x="547" y="568" />
+    <prop18 id="8" x="435" y="568" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="2" h="20" />
+    <rect x="2" y="1" w="3" h="7" />
+    <rect x="2" y="8" w="2" h="3" />
+    <rect x="2" y="11" w="1" h="9" />
+    <rect x="3" y="17" w="1" h="3" />
+    <rect x="4" y="19" w="28" h="1" />
+    <rect x="5" y="2" w="2" h="6" />
+    <rect x="6" y="8" w="6" h="1" />
+    <rect x="7" y="4" w="2" h="4" />
+    <rect x="8" y="9" w="4" h="1" />
+    <rect x="9" y="6" w="2" h="2" />
+    <rect x="11" y="7" w="1" h="1" />
+  </solid>
+  <objects>
+    <env_door id="0" x="160" y="544" uid="4" goX="3" goY="32" shop="" locked="False" oneWay="True" noEnemies="False" />
+    <env_door id="1" x="960" y="544" uid="2" goX="3" goY="4" shop="" locked="False" oneWay="False" noEnemies="False" />
+  </objects>
+</level>

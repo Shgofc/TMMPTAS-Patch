@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e2ce71bbacb3828cb7acbdf0f11f1c04:2/2$ -->
+<TextureAtlas imagePath="atlas_menu1.png">
+    <SubTexture name="characters/cascao" x="255" y="995" width="248" height="313"/>
+    <SubTexture name="characters/cascaoAssustado" x="2" y="1267" width="248" height="313"/>
+    <SubTexture name="characters/cascaoFeliz" x="252" y="1310" width="248" height="313"/>
+    <SubTexture name="characters/magali" x="2" y="1582" width="215" height="266"/>
+    <SubTexture name="characters/magaliZica" x="219" y="1625" width="215" height="266"/>
+    <SubTexture name="characters/monica" x="2" y="723" width="251" height="270"/>
+    <SubTexture name="characters/monicaBrava" x="255" y="723" width="251" height="270"/>
+    <SubTexture name="characters/monicaPreocupada" x="2" y="995" width="251" height="270"/>
+    <SubTexture name="characters/turma" x="2" y="2" width="455" height="270"/>
+    <SubTexture name="characters/turmaTriste" x="2" y="274" width="455" height="270"/>
+    <SubTexture name="shop/baloon" x="2" y="546" width="443" height="175"/>
+</TextureAtlas>

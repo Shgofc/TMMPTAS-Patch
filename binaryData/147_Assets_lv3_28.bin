@@ -1,0 +1,18 @@
+<level width="640" height="480" sky="1" dark="False" cutscene="">
+  <bg exportMode="GridRectangles" />
+  <props>
+    <prop20 id="0" x="446" y="406" />
+    <prop19 id="1" x="206" y="406" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="20" h="1" />
+    <rect x="0" y="1" w="1" h="14" />
+    <rect x="1" y="14" w="19" h="1" />
+    <rect x="16" y="12" w="4" h="2" />
+    <rect x="19" y="1" w="1" h="11" />
+  </solid>
+  <objects>
+    <env_door id="0" x="64" y="384" uid="1" goX="3" goY="27" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <col_light id="1" x="544" y="352" />
+  </objects>
+</level>

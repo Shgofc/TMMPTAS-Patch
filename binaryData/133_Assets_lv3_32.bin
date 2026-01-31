@@ -1,0 +1,58 @@
+<level width="1664" height="640" sky="2" dark="False" cutscene="">
+  <bg exportMode="GridRectangles" />
+  <props>
+    <prop19 id="1" x="233" y="568" />
+    <prop20 id="0" x="808" y="567" />
+    <prop19 id="2" x="936" y="567" />
+  </props>
+  <solid exportMode="GridRectangles">
+    <rect x="0" y="0" w="1" h="20" />
+    <rect x="1" y="4" w="3" h="16" />
+    <rect x="4" y="9" w="1" h="11" />
+    <rect x="5" y="14" w="1" h="6" />
+    <rect x="6" y="18" w="1" h="2" />
+    <rect x="7" y="19" w="45" h="1" />
+    <rect x="9" y="0" w="43" h="1" />
+    <rect x="9" y="1" w="16" h="1" />
+    <rect x="9" y="2" w="12" h="1" />
+    <rect x="10" y="3" w="9" h="1" />
+    <rect x="10" y="4" w="8" h="3" />
+    <rect x="11" y="7" w="7" h="1" />
+    <rect x="11" y="8" w="6" h="2" />
+    <rect x="12" y="10" w="5" h="1" />
+    <rect x="12" y="11" w="4" h="1" />
+    <rect x="13" y="12" w="2" h="1" />
+    <rect x="20" y="18" w="5" h="1" />
+    <rect x="21" y="15" w="3" h="3" />
+    <rect x="22" y="10" w="2" h="5" />
+    <rect x="23" y="5" w="1" h="5" />
+    <rect x="28" y="1" w="24" h="1" />
+    <rect x="29" y="2" w="23" h="1" />
+    <rect x="30" y="3" w="19" h="1" />
+    <rect x="31" y="4" w="16" h="1" />
+    <rect x="31" y="5" w="15" h="1" />
+    <rect x="31" y="6" w="14" h="1" />
+    <rect x="31" y="7" w="13" h="1" />
+    <rect x="31" y="8" w="11" h="1" />
+    <rect x="31" y="9" w="9" h="1" />
+    <rect x="31" y="10" w="6" h="1" />
+    <rect x="31" y="11" w="5" h="1" />
+    <rect x="32" y="12" w="3" h="1" />
+    <rect x="32" y="13" w="2" h="1" />
+    <rect x="33" y="18" w="19" h="1" />
+    <rect x="36" y="17" w="16" h="1" />
+    <rect x="39" y="16" w="13" h="1" />
+    <rect x="48" y="15" w="4" h="1" />
+  </solid>
+  <objects>
+    <env_drops id="0" x="288" y="96" />
+    <env_drops id="1" x="352" y="320" />
+    <env_drops id="2" x="544" y="256" />
+    <env_drops id="3" x="896" y="64" />
+    <env_door id="4" x="64" y="64" uid="5" goX="3" goY="31" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <env_door id="5" x="1600" y="416" uid="4" goX="3" goY="33" shop="" locked="False" oneWay="False" noEnemies="False" />
+    <en_turret id="6" x="1088" y="544" />
+    <en_turret id="7" x="1472" y="480" />
+    <pl_checkpoint id="8" x="448" y="544" />
+  </objects>
+</level>
